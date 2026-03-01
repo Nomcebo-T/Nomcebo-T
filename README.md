@@ -37,7 +37,7 @@ Predicts housing prices using regression models trained on Kaggle datasets.
 
 ---
 
-### 🚖 DriveSmart – Taxi Fleet Management App (On Going Project coming soon)
+### 🚖 TripTrakker – Taxi Fleet Management App (On Going Project coming soon)
 A full-stack web app to manage trips, expenses, and finances for small taxi businesses.
 - 💻 Built with **Next.js (React)** frontend + **FastAPI** backend + **PostgreSQL**.
 - 📋 Core features: Trip logging, financial dashboards, vehicle/driver management.
